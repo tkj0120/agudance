@@ -237,3 +237,55 @@ footer p {
   text-align: center;
   line-height: 100px;
 }
+
+
+
+/* ========================================
+    member
+========================================= */
+div#member {
+  width: 900px;
+  height: auto;
+  background-color: #FAFAFA;
+  margin-top: 20px;
+  box-shadow: 0 2px 7px rgba(83,78,61,0.3);
+  padding: 30px;
+}
+
+div#member div#grade {
+  width: 230px;
+  height: auto;
+  float: left;
+  padding: 20px;
+  border: 1px solid #015C31;
+  background-color: #EFFBF8;
+}
+
+div#member div#grade h2 {
+  font-size: 22px;
+  font-weight: bold;
+  color: #000;
+  border-left: 5px solid #015C31;
+  padding-left: 10px;
+}
+
+div#member div#grade a {
+  color: #015C31;
+  display: inline-block;
+  font-size: 20px;
+  text-decoration: none;
+  padding-left: 10px;
+  margin-top: 15px;
+}
+
+div#member div#grade a:hover {
+  color: #DBA901;
+  border-bottom: 3px solid #DBA901;
+}
+
+div#member div#introduce {
+  width: 500px;
+  height: auto;
+  margin-left: 80px;
+  float: left;
+}
