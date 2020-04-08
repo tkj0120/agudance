@@ -58,7 +58,7 @@ div#test {
     body
 ========================================= */
 body {
-  background-color: #EFFBEF;
+  background-color: #F6F6F6;
   font-family: "Meiryo";
 }
 
@@ -84,7 +84,7 @@ div#wrapper {
 header {
   width: 100%;
   height: 150px;
-  background-color: #EFFBEF;
+  background-color: #F6F6F6;
   padding-bottom: 10px;
 }
 
@@ -113,7 +113,7 @@ header span {
 div#menu {
   width: 100%;
   height: 50px;
-  background-color: #EFFBEF;
+  background-color: #F6F6F6;
   border-top: 3px solid #015C31;
   border-bottom: 3px solid #015C31;
   margin-bottom: 20px;
